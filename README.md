@@ -23,36 +23,59 @@
 
 ## 🖥️ SYSTEM TERMINAL
 
-```text
-┌──────────────────────────────────────────────────────┐
-│  AYUSH@CYBER-TERMINAL                                 │
-│  SYSTEM STATUS : ONLINE                               │
-│  SECURITY MODE : LEARNING                             │
-└──────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://img.shields.io/badge/AYUSH%40CYBER--TERMINAL-SYSTEM%20ONLINE-166534?style=for-the-badge&logo=windowsterminal&logoColor=22C55E"/>
+</p>
 
-root@ayush:~$ whoami
+<table width="100%">
+<tr>
+<td bgcolor="#0D1117">
 
-Ayush Anand
+<p align="left">
+  <img src="https://img.shields.io/badge/ROOT%40AYUSH-0D1117?style=flat-square&logo=linux&logoColor=22C55E"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=flat-square&labelColor=0D1117&color=22C55E"/>
+</p>
 
-root@ayush:~$ interests --list
+<pre>
+<code>
+<span>root@ayush:~$ whoami</span>
 
-[+] Cybersecurity
-[+] Ethical Hacking
-[+] Network Security
-[+] Cryptography
-[+] Artificial Intelligence
-[+] Hardware Security
-[+] Backend Development
+<span>[+] Ayush Anand</span>
 
-root@ayush:~$ mission
+<span>root@ayush:~$ interests --list</span>
 
-Learn continuously.
-Build intelligently.
-Understand vulnerabilities.
-Create secure solutions.
+<span>[+] Cybersecurity</span>
+<span>[+] Ethical Hacking</span>
+<span>[+] Network Security</span>
+<span>[+] Cryptography</span>
+<span>[+] Artificial Intelligence</span>
+<span>[+] Hardware Security</span>
+<span>[+] Backend Development</span>
 
-root@ayush:~$ _
-```
+<span>root@ayush:~$ mission</span>
+
+<span>[+] Learn continuously.</span>
+<span>[+] Build intelligently.</span>
+<span>[+] Understand vulnerabilities.</span>
+<span>[+] Create secure solutions.</span>
+
+<span>root@ayush:~$ _</span>
+</code>
+</pre>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=700&color=22C55E&background=0D1117&center=true&vCenter=true&width=650&height=45&lines=%5B+SYSTEM+INITIALIZED+%5D;%5B+SECURITY+MODE%3A+LEARNING+%5D;%5B+MISSION%3A+KEEP+BUILDING+%5D;THINK+SECURE.+BUILD+SMART." alt="Green terminal animation"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY%20MODE-LEARNING-14532D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NETWORK-ONLINE-166534?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square"/>
+</p>
 
 ---
 
