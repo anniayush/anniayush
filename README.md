@@ -10,13 +10,13 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Backend+Developer+%E2%9A%99%EF%B8%8F;Exploring+Cybersecurity+%F0%9F%94%90;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=166534&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Backend+Developer+%E2%9A%99%EF%B8%8F;Exploring+Cybersecurity+%F0%9F%94%90;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anniayush&label=PROFILE+VIEWS&color=39d353&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/anniayush?label=FOLLOWERS&style=for-the-badge&color=39d353"/>
-  <img src="https://img.shields.io/github/stars/anniayush?label=TOTAL+STARS&style=for-the-badge&color=39d353"/>
+  <img src="https://komarev.com/ghpvc/?username=anniayush&label=PROFILE+VIEWS&color=166534&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/anniayush?label=FOLLOWERS&style=for-the-badge&color=166534"/>
+  <img src="https://img.shields.io/github/stars/anniayush?label=TOTAL+STARS&style=for-the-badge&color=166534"/>
 </p>
 
 ---
@@ -48,9 +48,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 <h3 align="center">🔐 Hardware Trojan Detection</h3>
 
 <p align="center">
-  <a href="https://github.com/anniayush/HardwareTrojanML">
-    <img src="https://img.shields.io/badge/AI%20%2B%20HARDWARE%20SECURITY-39D353?style=for-the-badge&logo=github&logoColor=black" alt="Hardware Security"/>
-  </a>
+  <img src="https://img.shields.io/badge/HARDWARE%20SECURITY-14532D?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -58,17 +56,17 @@ I'm a developer passionate about building intelligent applications, scalable bac
 </p>
 
 **✨ Key Features**
+
 - AES-128 encryption on FPGA
 - INA219 power monitoring
 - Power consumption data collection
 - Hardware power signature analysis
 - ML-based Trojan classification
 
-**🛠️ Tech Stack**
+**🛠️ Technologies**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=arduino"/>
+  <img src="https://skillicons.dev/icons?i=python,arduino,git"/>
 </p>
 
 <p align="center">
@@ -77,7 +75,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 
 <p align="center">
   <a href="https://github.com/anniayush/HardwareTrojanML">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-39D353?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-166534?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -88,9 +86,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 <h3 align="center">🧬 Gastric Sentinel</h3>
 
 <p align="center">
-  <a href="https://github.com/anniayush/GastricSentinel">
-    <img src="https://img.shields.io/badge/AI%20%2B%20MEDICAL%20TECH-39D353?style=for-the-badge&logo=github&logoColor=black" alt="Medical AI"/>
-  </a>
+  <img src="https://img.shields.io/badge/MEDICAL%20AI-14532D?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -98,13 +94,14 @@ I'm a developer passionate about building intelligent applications, scalable bac
 </p>
 
 **✨ Key Features**
+
 - ResNet50 image classification
 - Clinical data integration
 - Genomic data analysis
 - Image and clinical/genomic model fusion
 - Gastric cancer subtype classification exploration
 
-**🛠️ Tech Stack**
+**🛠️ Technologies**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch"/>
@@ -116,7 +113,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 
 <p align="center">
   <a href="https://github.com/anniayush/GastricSentinel">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-39D353?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-166534?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -149,6 +146,15 @@ I'm a developer passionate about building intelligent applications, scalable bac
   </a>
   <a href="https://github.com/anniayush">
     <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush20418">
+    <img src="https://img.shields.io/badge/LINKEDIN-166534?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayushmaths928@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-166534?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -211,7 +217,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anniayush&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E" width="85%" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=anniayush&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=166534&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E&dates=8B949E" width="85%" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -227,7 +233,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 ## 🟢 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/anniayush" width="100%" alt="GitHub Contribution Calendar"/>
+  <img src="https://ghchart.rshah.org/166534/anniayush" width="100%" alt="GitHub Contribution Calendar"/>
 </p>
 
 ---
@@ -244,7 +250,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 
 <p align="center">
   <a href="https://github.com/anniayush?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-39D353?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-166534?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -255,7 +261,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 <h3 align="center">"Turning ideas into code, and code into impact."</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:006d32,100:39d353&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532D,100:166534&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
