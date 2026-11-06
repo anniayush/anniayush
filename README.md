@@ -1,446 +1,149 @@
-
-<!-- ====================================================== -->
-<!-- AYUSH ANAND | ANIMATED CYBERSECURITY GITHUB PROFILE -->
-<!-- ====================================================== -->
-
-<!-- ANIMATED HEADER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:14532D,100:166534&height=180&section=header&text=AYUSH%20ANAND&fontSize=50&fontColor=22C55E&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20AI%2FML%20%7C%20BACKEND%20DEVELOPMENT&descSize=15&descAlignY=55&descColor=FFFFFF" width="100%"/>
+  <img src="assets/header.svg" width="100%" alt="Ayush Anand. Cybersecurity, AI/ML, backend development." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+INITIALIZED+%5D;Exploring+Cybersecurity+%F0%9F%94%90;Ethical+Hacking+%7C+Network+Security;Cryptography+%7C+Hardware+Security;Building+AI-Powered+Solutions;Think+Secure.+Build+Smart.+Stay+Curious." alt="Typing SVG"/>
+  <code>[</code> <a href="https://www.linkedin.com/in/ayush20418">linkedin</a> <code>]</code>&nbsp;&nbsp;
+  <code>[</code> <a href="mailto:ayushmaths928@gmail.com">email</a> <code>]</code>&nbsp;&nbsp;
+  <code>[</code> <a href="https://drive.google.com/file/d/1pReKO-2RsFySfxPRLx7r-T75KEnMi-is/view?usp=drive_link">resume</a> <code>]</code>&nbsp;&nbsp;
+  <code>[</code> <a href="https://github.com/anniayush">github</a> <code>]</code>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anniayush&label=PROFILE+VIEWS&color=166534&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/anniayush?label=FOLLOWERS&style=for-the-badge&color=166534"/>
-  <img src="https://img.shields.io/github/stars/anniayush?label=TOTAL+STARS&style=for-the-badge&color=166534"/>
-</p>
+## `01` &nbsp;whoami
 
----
+> I am a technology enthusiast focused on **cybersecurity, artificial intelligence and practical software**. I like understanding how systems work, and where they break, so that what I build can hold up.
 
-## 🖥️ SYSTEM TERMINAL
+## `02` &nbsp;status board
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AYUSH%40CYBER--TERMINAL-SYSTEM%20ONLINE-166534?style=for-the-badge&logo=windowsterminal&logoColor=22C55E"/>
-</p>
+```text
+MODULE                              STATUS
+──────────────────────────────────  ─────────────
+cybersecurity.ethical_hacking       [ EXPLORING  ]
+network_security.web_appsec         [ LEARNING   ]
+vulnerability.threat_detection      [ INTERESTED ]
+cryptography.secure_comms           [ EXPLORING  ]
+hardware_security.fpga              [ WORKING ON ]
+ai_ml.applications                  [ BUILDING   ]
+backend.system_design               [ LEARNING   ]
+dsa.java                            [ PRACTISING ]
+```
 
-<table width="100%">
-<tr>
-<td bgcolor="#0D1117">
+## `03` &nbsp;attack surface
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ROOT%40AYUSH-0D1117?style=flat-square&logo=linux&logoColor=22C55E"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=flat-square&labelColor=0D1117&color=22C55E"/>
-</p>
+```text
+security/
+├── offensive/
+│   ├── ethical_hacking_fundamentals
+│   ├── penetration_testing_concepts
+│   ├── web_application_security
+│   ├── owasp_top_10
+│   ├── vulnerability_assessment
+│   └── security_testing
+├── defensive/
+│   ├── network_security_fundamentals
+│   ├── security_monitoring
+│   ├── log_analysis
+│   ├── threat_detection
+│   ├── incident_response_concepts
+│   └── system_hardening
+├── cryptography/
+│   ├── aes_encryption
+│   ├── symmetric_cryptography
+│   ├── asymmetric_cryptography
+│   ├── hashing_fundamentals
+│   └── secure_data_transmission
+└── hardware/
+    ├── fpga_security
+    ├── hardware_trojan_detection
+    ├── power_side_channel_analysis
+    ├── aes_128_implementation
+    └── ml_based_detection
+```
 
-<pre>
-<code>
-<span>root@ayush:~$ whoami</span>
+## `04` &nbsp;workflow
 
-<span>[+] Ayush Anand</span>
+<img src="assets/killchain.svg" width="100%" alt="Workflow: recon, enumerate, analyse, detect, defend, improve." />
 
-<span>root@ayush:~$ interests --list</span>
+## `05` &nbsp;case files
 
-<span>[+] Cybersecurity</span>
-<span>[+] Ethical Hacking</span>
-<span>[+] Network Security</span>
-<span>[+] Cryptography</span>
-<span>[+] Artificial Intelligence</span>
-<span>[+] Hardware Security</span>
-<span>[+] Backend Development</span>
+### CASE 001 &nbsp;·&nbsp; Hardware Trojan Detection
 
-<span>root@ayush:~$ mission</span>
+`CLASS: hardware security` &nbsp; `STATUS: active` &nbsp; `STACK: python · verilog · fpga · aes-128 · ina219 · ml`
 
-<span>[+] Learn continuously.</span>
-<span>[+] Build intelligently.</span>
-<span>[+] Understand vulnerabilities.</span>
-<span>[+] Create secure solutions.</span>
-
-<span>root@ayush:~$ _</span>
-</code>
-</pre>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=700&color=22C55E&background=0D1117&center=true&vCenter=true&width=650&height=45&lines=%5B+SYSTEM+INITIALIZED+%5D;%5B+SECURITY+MODE%3A+LEARNING+%5D;%5B+MISSION%3A+KEEP+BUILDING+%5D;THINK+SECURE.+BUILD+SMART." alt="Green terminal animation"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SECURITY%20MODE-LEARNING-14532D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NETWORK-ONLINE-166534?style=flat-square"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square"/>
-</p>
-
----
-
-## 🛡️ ABOUT ME
-
-I'm a technology enthusiast passionate about cybersecurity, artificial intelligence, and building practical software solutions.
-
-- 🔐 Exploring **Cybersecurity & Ethical Hacking**
-- 🌐 Learning **Network Security & Web Application Security**
-- 🕵️ Interested in **Vulnerability Assessment & Threat Detection**
-- 🔑 Exploring **Cryptography & Secure Communication**
-- ⚡ Working on **FPGA-Based Hardware Security**
-- 🤖 Building **AI/ML Applications**
-- ⚙️ Learning **Backend Development & System Design**
-- 💻 Practicing **Data Structures & Algorithms using Java**
-- 📄 [View My Resume](https://drive.google.com/file/d/1pReKO-2RsFySfxPRLx7r-T75KEnMi-is/view?usp=drive_link)
-- 📫 [Contact Me](mailto:ayushmaths928@gmail.com)
-
----
-
-## 🔰 CYBERSECURITY OPERATIONS CENTER
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SECURITY%20OPERATIONS-14532D?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/THREAT%20ANALYSIS-14532D?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DEFENSIVE%20SECURITY-14532D?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🔍 OFFENSIVE SECURITY</h3>
-
-- Ethical Hacking Fundamentals
-- Penetration Testing Concepts
-- Web Application Security
-- OWASP Top 10
-- Vulnerability Assessment
-- Security Testing
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ DEFENSIVE SECURITY</h3>
-
-- Network Security Fundamentals
-- Security Monitoring
-- Log Analysis
-- Threat Detection
-- Incident Response Concepts
-- System Hardening
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🔑 CRYPTOGRAPHY</h3>
-
-- AES Encryption
-- Symmetric Cryptography
-- Asymmetric Cryptography
-- Hashing Fundamentals
-- Secure Data Transmission
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">⚡ HARDWARE SECURITY</h3>
-
-- FPGA Security
-- Hardware Trojan Detection
-- Power Side-Channel Analysis
-- AES-128 Implementation
-- ML-Based Detection
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 CYBERSECURITY TOOLKIT
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,docker,git,github,vscode"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/KALI%20LINUX-14532D?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WIRESHARK-14532D?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BURP%20SUITE-14532D?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NMAP-14532D?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/METASPLOIT-14532D?style=for-the-badge&logo=metasploit&logoColor=white"/>
-</p>
-
-<sub>Cybersecurity tools I'm interested in learning and exploring.</sub>
-
----
-
-## ⚙️ SECURITY WORKFLOW
-
-<p align="center">
-  <img src="https://img.shields.io/badge/01%20RECONNAISSANCE-14532D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/02%20ENUMERATION-14532D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/03%20ANALYSIS-14532D?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/04%20DETECTION-166534?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/05%20DEFENSE-166534?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/06%20IMPROVEMENT-166534?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <b>Understand → Identify → Analyze → Detect → Secure</b>
-</p>
-
----
-
-## 🏆 FEATURED PROJECTS
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Building+Intelligent+Solutions;AI+%2B+Cybersecurity+%2B+Innovation" alt="Project Typing Animation"/>
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🔐 Hardware Trojan Detection</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HARDWARE%20CYBERSECURITY-14532D?style=for-the-badge&logo=shield&logoColor=white"/>
-</p>
-
-<p align="center">
-  FPGA-based hardware security project focused on detecting potential hardware Trojans using power consumption analysis and machine learning.
-</p>
-
-**✨ Key Features**
+An FPGA-based project that detects potential hardware Trojans by analysing power consumption and applying machine learning. The idea is that extra malicious logic leaves a measurable footprint in a chip's power signature.
 
 - AES-128 encryption on FPGA
-- INA219 power monitoring
-- Power consumption data collection
+- INA219 power monitoring and data collection
 - Hardware power signature analysis
 - ML-based Trojan classification
 
-**🛠️ Tech Stack**
+**[ open repo → ](https://github.com/anniayush/HardwareTrojanML)**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino,git"/>
-</p>
+### CASE 002 &nbsp;·&nbsp; Gastric Sentinel
 
-<p align="center">
-  `Python` `Verilog` `FPGA` `AES-128` `INA219` `Machine Learning`
-</p>
+`CLASS: medical ai` &nbsp; `STATUS: active` &nbsp; `STACK: resnet50 · scikit-learn · random forest · pandas · numpy`
 
-<p align="center">
-  <a href="https://github.com/anniayush/HardwareTrojanML">
-    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-166534?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🧬 Gastric Sentinel</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-14532D?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p align="center">
-  AI-powered medical analysis project designed to support gastric cancer detection by combining medical image analysis with clinical and genomic information.
-</p>
-
-**✨ Key Features**
+An AI-powered project that supports gastric cancer detection by combining medical image analysis with clinical and genomic information.
 
 - ResNet50 image classification
-- Clinical data integration
-- Genomic data analysis
+- Clinical and genomic data integration
 - Image and clinical/genomic model fusion
-- Gastric cancer subtype classification exploration
+- Gastric cancer subtype classification
 
-**🛠️ Tech Stack**
+**[ open repo → ](https://github.com/anniayush/GastricSentinel)**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch"/>
-</p>
+## `06` &nbsp;loaded modules
 
 <p align="center">
-  `ResNet50` `Scikit-learn` `Random Forest` `Pandas` `NumPy`
+  <img src="https://cdn.simpleicons.org/python/22C55E" height="30" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/22C55E" height="30" alt="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/22C55E" height="30" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/22C55E" height="30" alt="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/django/22C55E" height="30" alt="Django" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/22C55E" height="30" alt="Flask" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/22C55E" height="30" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/22C55E" height="30" alt="PyTorch" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/22C55E" height="30" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/22C55E" height="30" alt="scikit-learn" />
+  <br><br>
+  <img src="https://cdn.simpleicons.org/mongodb/22C55E" height="30" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/22C55E" height="30" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/22C55E" height="30" alt="AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/22C55E" height="30" alt="Google Cloud" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/22C55E" height="30" alt="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kubernetes/22C55E" height="30" alt="Kubernetes" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/22C55E" height="30" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/22C55E" height="30" alt="Linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/22C55E" height="30" alt="Kali Linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/22C55E" height="30" alt="Wireshark" />
 </p>
+
+```toml
+# modules.lock
+languages = ["python", "java", "javascript", "html", "css"]
+backend   = ["node.js", "django", "flask", "react", "angular", "vue"]
+ai_ml     = ["pytorch", "tensorflow", "scikit-learn", "pandas", "numpy"]
+data      = ["mongodb", "mysql", "postgresql", "firebase"]
+cloud     = ["aws", "gcp"]
+devops    = ["docker", "kubernetes", "git", "github", "linux", "postman"]
+exploring = ["kali linux", "wireshark", "burp suite", "nmap", "metasploit"]
+```
+
+## `07` &nbsp;telemetry
 
 <p align="center">
-  <a href="https://github.com/anniayush/GastricSentinel">
-    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-166534?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anniayush&theme=github_dark" width="49%" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anniayush&theme=github_dark" width="49%" alt="Most used languages" />
 </p>
 
-</td>
-</tr>
-</table>
+## `08` &nbsp;connect
 
----
+```text
+$ ./connect --secure
+[+] open to collaborations, internships and conversations
+[+] topics: security · ai · backend engineering
+```
 
-## 🧠 CYBERSECURITY KNOWLEDGE AREAS
+<p align="center"><i>"The best defense begins with understanding how things work."</i></p>
 
-| Domain | Learning Focus |
-|:---|:---|
-| 🌐 Networking | TCP/IP, DNS, HTTP/HTTPS, Ports |
-| 🔐 Cryptography | AES, Hashing, Encryption |
-| 🕸️ Web Security | OWASP Top 10, Authentication |
-| 🐧 Linux Security | Permissions, Processes, CLI |
-| 🔍 Ethical Hacking | Reconnaissance, Enumeration |
-| 🛡️ Defense | Threat Detection, Log Analysis |
-| ⚡ Hardware Security | FPGA, Side-Channel Analysis |
-
----
-
-## 🎯 CURRENT FOCUS
-
-| Area | Focus |
-|:---|:---|
-| 🔐 Cybersecurity | Ethical Hacking & Network Security |
-| 🛡️ Security Research | Threat Detection & Vulnerability Analysis |
-| ⚡ Hardware Security | Hardware Trojan Detection |
-| 🤖 AI / ML | Deep Learning & Classification |
-| 🧬 Medical AI | Gastric Cancer Detection |
-| ⚙️ Backend | APIs & Server-side Development |
-| 💻 DSA | Java & Problem Solving |
-
----
-
-## 💻 TECH STACK & DEVELOPMENT TOOLS
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
-</p>
-
-### Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,react,angular,vue"/>
-</p>
-
-### AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python"/>
-</p>
-
-### Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,gcp"/>
-</p>
-
-### DevOps & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman,vscode"/>
-</p>
-
-### Other Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=electron,oracle,cypress"/>
-</p>
-
----
-
-## 📊 GITHUB PERFORMANCE DASHBOARD
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anniayush&theme=github_dark" width="49%" alt="GitHub Statistics"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anniayush&theme=github_dark" width="49%" alt="Repository Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anniayush&theme=github_dark" width="49%" alt="Most Used Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anniayush&theme=github_dark&utcOffset=5.5" width="49%" alt="Productive Time"/>
-</p>
-
----
-
-## 🔥 CONTRIBUTION STREAK
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anniayush&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=166534&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E&dates=8B949E" width="85%" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 📈 GITHUB PROFILE OVERVIEW
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anniayush&theme=github_dark" width="100%" alt="GitHub Profile Overview"/>
-</p>
-
----
-
-## 🟢 CONTRIBUTION ACTIVITY
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/166534/anniayush" width="100%" alt="GitHub Contribution Calendar"/>
-</p>
-
----
-
-## 🏆 GITHUB ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anniayush&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush20418">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayushmaths928@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
-  </a>
-  <a href="https://github.com/anniayush">
-    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush20418">
-    <img src="https://img.shields.io/badge/LINKEDIN-166534?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ayushmaths928@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-166534?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/anniayush">
-    <img src="https://img.shields.io/badge/GITHUB-166534?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🔐 FINAL TRANSMISSION
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=650&lines=%5B+SYSTEM+STATUS%3A+ONLINE+%5D;%5B+SECURITY+MODE%3A+LEARNING+%5D;%5B+MISSION%3A+KEEP+BUILDING+%5D;THINK+SECURE.+BUILD+SMART." alt="Final Transmission"/>
-</p>
-
-<h3 align="center">
-  "The best defense begins with understanding how things work."
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,50:14532D,100:0D1117&height=140&section=footer&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! Explore my repositories and let's connect.
-</p>
+<img src="assets/footer.svg" width="100%" alt="Think secure. Build smart." />
