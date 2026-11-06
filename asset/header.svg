@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Ayush Anand. Cybersecurity, AI/ML, backend development.">
+  <defs>
+    <radialGradient id="vig" cx="0.5" cy="0.62" r="0.7">
+      <stop offset="0" stop-color="#0F2A1C"/>
+      <stop offset="1" stop-color="#050807"/>
+    </radialGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#22C55E" fill-opacity="0.045"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="340" fill="url(#vig)"/>
+  <rect width="1000" height="340" fill="url(#scan)"/>
+  <rect x="1" y="1" width="998" height="338" fill="none" stroke="#1F3A2B" stroke-width="1.5"/>
+
+  <g font-family="'SFMono-Regular', Consolas, 'Courier New', monospace">
+
+    <!-- top bar -->
+    <text x="40" y="34" font-size="11" fill="#4B7F63" letter-spacing="3">AYUSH-SEC  //  BOOT SEQUENCE</text>
+    <text x="960" y="34" font-size="11" fill="#4B7F63" letter-spacing="3" text-anchor="end">KERNEL 1.0</text>
+    <rect x="40" y="46" width="920" height="3" fill="#102319"/>
+    <rect x="40" y="46" height="3" fill="#22C55E" filter="url(#glow)" width="0">
+      <animate attributeName="width" values="0;920;920;0" keyTimes="0;0.25;0.92;1" dur="12s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- boot log -->
+    <g font-size="13.5">
+      <text x="40" y="92" opacity="0">
+        <tspan fill="#22C55E">[  OK  ]</tspan><tspan fill="#A7F3D0">  mount /dev/cybersecurity</tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.042;0.052;0.92;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="40" y="116" opacity="0">
+        <tspan fill="#22C55E">[  OK  ]</tspan><tspan fill="#A7F3D0">  load module  cryptography</tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.083;0.093;0.92;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="40" y="140" opacity="0">
+        <tspan fill="#22C55E">[  OK  ]</tspan><tspan fill="#A7F3D0">  load module  ai_ml</tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.125;0.135;0.92;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="40" y="164" opacity="0">
+        <tspan fill="#22C55E">[  OK  ]</tspan><tspan fill="#A7F3D0">  load module  backend</tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.167;0.177;0.92;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="40" y="188" opacity="0">
+        <tspan fill="#22C55E">[  OK  ]</tspan><tspan fill="#A7F3D0">  hardware_security.fpga  ready</tspan>
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.208;0.218;0.92;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- access granted -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.40;0.42;0.92;1" dur="12s" repeatCount="indefinite"/>
+      <rect x="690" y="72" width="270" height="124" rx="6" fill="#0A1A12" stroke="#22C55E" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <path d="M714,112 v-10 a12,12 0 0 1 24,0 v10" fill="none" stroke="#4ADE80" stroke-width="2.5" stroke-linecap="round"/>
+      <rect x="708" y="112" width="36" height="26" rx="4" fill="#22C55E"/>
+      <circle cx="726" cy="124" r="3.5" fill="#050807"/>
+      <text x="766" y="108" font-size="12" fill="#4B7F63" letter-spacing="3">AUTH</text>
+      <text x="766" y="132" font-size="17" font-weight="700" fill="#4ADE80" letter-spacing="2" filter="url(#glow)">ACCESS</text>
+      <text x="766" y="154" font-size="17" font-weight="700" fill="#4ADE80" letter-spacing="2" filter="url(#glow)">GRANTED</text>
+      <text x="710" y="182" font-size="10.5" fill="#4B7F63" letter-spacing="2">USER: ayush  ·  LEVEL: root</text>
+    </g>
+
+    <!-- name -->
+    <g text-anchor="middle">
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.267;0.277;0.92;1" dur="12s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 0;4 0;-4 0;0 0;0 0" keyTimes="0;0.267;0.272;0.278;0.284;1" dur="12s" repeatCount="indefinite"/>
+        <text x="500" y="262" font-size="58" font-weight="700" fill="#ECFDF5" letter-spacing="10" filter="url(#glow)">AYUSH ANAND</text>
+      </g>
+      <text x="500" y="300" font-size="13" fill="#22C55E" letter-spacing="6" opacity="0">
+        CYBERSECURITY  ·  AI/ML  ·  BACKEND
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.333;0.35;0.92;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+</svg>
