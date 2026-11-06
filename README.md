@@ -1,16 +1,17 @@
 
 <!-- ================================================= -->
-<!-- HEADER -->
+<!-- AYUSH ANAND | GITHUB PROFILE README -->
+<!-- CYBERSECURITY + AI/ML + BACKEND DEVELOPMENT -->
 <!-- ================================================= -->
 
 <h1 align="center">👋 Hey, I'm Ayush Anand</h1>
 
 <h3 align="center">
-  Backend Developer | AI/ML Engineer | Cybersecurity Enthusiast
+  🔐 Cybersecurity Enthusiast | 🤖 AI/ML Developer | ⚙️ Backend Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=166534&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Backend+Developer+%E2%9A%99%EF%B8%8F;Exploring+Cybersecurity+%F0%9F%94%90;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=166534&center=true&vCenter=true&width=850&lines=Initializing+Secure+Development+Environment...;Exploring+Cybersecurity+%26+Ethical+Hacking+%F0%9F%94%90;Building+AI-Powered+Systems+%F0%9F%A4%96;Learning+Network+Security+%26+Cryptography;Hardware+Security+%7C+Machine+Learning;Turning+Ideas+Into+Secure+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -21,24 +22,70 @@
 
 ---
 
-## 🚀 About Me
+## 💻 Terminal Access
 
-I'm a developer passionate about building intelligent applications, scalable backend systems, and exploring the intersection of AI and cybersecurity.
+```bash
+┌──(ayush㉿github)-[~]
+└─$ whoami
 
-- 🔭 Building projects in **AI/ML and Hardware Security**
-- 🤖 Interested in **Artificial Intelligence and Deep Learning**
-- 🔐 Exploring **Cybersecurity and Hardware Trojan Detection**
-- ⚙️ Passionate about **Backend Development and System Design**
-- 🧠 Practicing **Data Structures & Algorithms**
+Ayush Anand
+
+└─$ cat interests.txt
+
+Cybersecurity
+Ethical Hacking
+Artificial Intelligence
+Machine Learning
+Hardware Security
+Backend Development
+Cryptography
+
+└─$ echo "Building. Learning. Securing."
+Building. Learning. Securing.
+```
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a developer passionate about building intelligent applications, exploring cybersecurity, and understanding how systems work under the hood.
+
+- 🔐 Exploring **Cybersecurity, Ethical Hacking & Information Security**
+- 🛡️ Interested in **Network Security, Cryptography & Threat Detection**
+- 🤖 Building projects using **Artificial Intelligence & Machine Learning**
+- ⚡ Exploring **FPGA-based Hardware Security**
+- ⚙️ Learning **Backend Development & System Design**
+- 💻 Practicing **Data Structures & Algorithms in Java**
 - 📄 [View My Resume](https://drive.google.com/file/d/1pReKO-2RsFySfxPRLx7r-T75KEnMi-is/view?usp=drive_link)
 - 📫 Email: [ayushmaths928@gmail.com](mailto:ayushmaths928@gmail.com)
+
+---
+
+## 🔐 Cybersecurity Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ETHICAL%20HACKING-14532D?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NETWORK%20SECURITY-14532D?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CRYPTOGRAPHY-14532D?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HARDWARE%20SECURITY-14532D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/THREAT%20DETECTION-14532D?style=for-the-badge&logo=shield&logoColor=white"/>
+</p>
+
+| Domain | Areas of Interest |
+|:---|:---|
+| 🔍 Ethical Hacking | Security testing and vulnerability assessment |
+| 🌐 Network Security | Network protocols and secure communication |
+| 🔑 Cryptography | Encryption and secure data transmission |
+| 🛡️ Threat Detection | Identifying suspicious patterns and anomalies |
+| ⚡ Hardware Security | FPGA security and hardware Trojan detection |
+| 🐧 Linux | Command-line tools and system fundamentals |
 
 ---
 
 ## 🏆 Featured Projects
 
 <p align="center">
-  <b>Some of the projects I've been working on</b>
+  <b>Building intelligent and security-focused solutions</b>
 </p>
 
 <table>
@@ -48,7 +95,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 <h3 align="center">🔐 Hardware Trojan Detection</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HARDWARE%20SECURITY-14532D?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CYBERSECURITY%20%2B%20AI-14532D?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -86,7 +133,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 <h3 align="center">🧬 Gastric Sentinel</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MEDICAL%20AI-14532D?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-14532D?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -123,13 +170,40 @@ I'm a developer passionate about building intelligent applications, scalable bac
 
 ---
 
+## 🛠️ Cybersecurity Learning Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,docker,vscode"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LINUX-14532D?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-14532D?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-14532D?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-14532D?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NETWORKING-14532D?style=flat-square&logo=cisco&logoColor=white"/>
+</p>
+
+**Areas I'm exploring:**
+
+- Linux command-line fundamentals
+- Networking and TCP/IP concepts
+- Web application security fundamentals
+- Vulnerability assessment
+- Cryptography and encryption
+- Security automation with Python
+- Hardware security and threat analysis
+
+---
+
 ## 🎯 Current Focus
 
 | Area | Focus |
 |:---|:---|
-| 🔐 Hardware Security | Hardware Trojan Detection |
-| 🧬 Medical AI | Gastric Cancer Detection |
+| 🔐 Cybersecurity | Ethical Hacking & Network Security |
+| 🛡️ Hardware Security | Hardware Trojan Detection |
 | 🤖 AI / ML | Deep Learning & Classification |
+| 🧬 Medical AI | Gastric Cancer Detection |
 | ⚙️ Backend | APIs & Server-side Development |
 | 💻 DSA | Java & Problem Solving |
 
@@ -160,39 +234,39 @@ I'm a developer passionate about building intelligent applications, scalable bac
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,django,flask,react,angular,vue"/>
 </p>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python"/>
 </p>
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,gcp"/>
 </p>
 
-### ☁️ DevOps & Development Tools
+### DevOps & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman,vscode"/>
 </p>
 
-### 🔧 Other Technologies
+### Other Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=electron,oracle,cypress"/>
@@ -246,7 +320,7 @@ I'm a developer passionate about building intelligent applications, scalable bac
 
 ---
 
-## 💻 Explore My Work
+## 💚 Explore My Work
 
 <p align="center">
   <a href="https://github.com/anniayush?tab=repositories">
@@ -256,14 +330,14 @@ I'm a developer passionate about building intelligent applications, scalable bac
 
 ---
 
-<h2 align="center">💚 Thanks for Visiting My Profile!</h2>
+<h2 align="center">🔐 Stay Curious. Stay Secure. Keep Building.</h2>
 
-<h3 align="center">"Turning ideas into code, and code into impact."</h3>
+<h3 align="center">"Think like a developer. Learn like a researcher. Build with security in mind."</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532D,100:166534&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
