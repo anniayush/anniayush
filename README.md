@@ -1,18 +1,16 @@
 
 <!-- ====================================================== -->
-<!-- AYUSH ANAND | CYBERSECURITY + AI/ML GITHUB PROFILE -->
+<!-- AYUSH ANAND | ANIMATED CYBERSECURITY GITHUB PROFILE -->
 <!-- ====================================================== -->
 
-<!-- HEADER -->
-
-<h1 align="center">🔐 AYUSH ANAND</h1>
-
-<h3 align="center">
-  CYBERSECURITY ENTHUSIAST | AI/ML DEVELOPER | BACKEND DEVELOPER
-</h3>
+<!-- ANIMATED HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=166534&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+INITIALIZED+%5D;Exploring+the+World+of+Cybersecurity+%F0%9F%94%90;Learning+Ethical+Hacking+%26+Penetration+Testing;Network+Security+%7C+Cryptography+%7C+Threat+Detection;Building+AI-Powered+Security+Solutions;Think+Secure.+Build+Smart.+Stay+Curious." alt="Cybersecurity Typing Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:14532D,100:166534&height=180&section=header&text=AYUSH%20ANAND&fontSize=50&fontColor=22C55E&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20AI%2FML%20%7C%20BACKEND%20DEVELOPMENT&descSize=15&descAlignY=55&descColor=FFFFFF" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+INITIALIZED+%5D;Exploring+Cybersecurity+%F0%9F%94%90;Ethical+Hacking+%7C+Network+Security;Cryptography+%7C+Hardware+Security;Building+AI-Powered+Solutions;Think+Secure.+Build+Smart.+Stay+Curious." alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -23,16 +21,14 @@
 
 ---
 
-<!-- TERMINAL -->
-
 ## 🖥️ SYSTEM TERMINAL
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│  AYUSH@CYBER-TERMINAL                                     │
-│  SYSTEM STATUS: ONLINE                                    │
-│  SECURITY MODE: LEARNING                                  │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  AYUSH@CYBER-TERMINAL                                 │
+│  SYSTEM STATUS : ONLINE                               │
+│  SECURITY MODE : LEARNING                             │
+└──────────────────────────────────────────────────────┘
 
 root@ayush:~$ whoami
 
@@ -43,7 +39,6 @@ root@ayush:~$ interests --list
 [+] Cybersecurity
 [+] Ethical Hacking
 [+] Network Security
-[+] Penetration Testing
 [+] Cryptography
 [+] Artificial Intelligence
 [+] Hardware Security
@@ -51,8 +46,10 @@ root@ayush:~$ interests --list
 
 root@ayush:~$ mission
 
-Learn continuously. Build intelligently.
-Understand vulnerabilities. Create secure solutions.
+Learn continuously.
+Build intelligently.
+Understand vulnerabilities.
+Create secure solutions.
 
 root@ayush:~$ _
 ```
@@ -62,8 +59,6 @@ root@ayush:~$ _
 ## 🛡️ ABOUT ME
 
 I'm a technology enthusiast passionate about cybersecurity, artificial intelligence, and building practical software solutions.
-
-I enjoy exploring how systems work, understanding security vulnerabilities, and developing intelligent applications.
 
 - 🔐 Exploring **Cybersecurity & Ethical Hacking**
 - 🌐 Learning **Network Security & Web Application Security**
@@ -92,11 +87,6 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
 
 <h3 align="center">🔍 OFFENSIVE SECURITY</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RECONNAISSANCE-166534?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ENUMERATION-166534?style=flat-square"/>
-</p>
-
 - Ethical Hacking Fundamentals
 - Penetration Testing Concepts
 - Web Application Security
@@ -108,11 +98,6 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
 <td width="50%" valign="top">
 
 <h3 align="center">🛡️ DEFENSIVE SECURITY</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/THREAT%20DETECTION-166534?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NETWORK%20DEFENSE-166534?style=flat-square"/>
-</p>
 
 - Network Security Fundamentals
 - Security Monitoring
@@ -143,7 +128,7 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
 - Hardware Trojan Detection
 - Power Side-Channel Analysis
 - AES-128 Implementation
-- Machine Learning-Based Detection
+- ML-Based Detection
 
 </td>
 </tr>
@@ -165,7 +150,7 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
   <img src="https://img.shields.io/badge/METASPLOIT-14532D?style=for-the-badge&logo=metasploit&logoColor=white"/>
 </p>
 
-<sub>These tools are part of my cybersecurity learning interests; this section does not imply professional certification or expertise in every tool.</sub>
+<sub>Cybersecurity tools I'm interested in learning and exploring.</sub>
 
 ---
 
@@ -184,7 +169,7 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
 </p>
 
 <p align="center">
-  <b>Understand the system → Identify risks → Analyze → Detect → Secure</b>
+  <b>Understand → Identify → Analyze → Detect → Secure</b>
 </p>
 
 ---
@@ -192,7 +177,7 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
 ## 🏆 FEATURED PROJECTS
 
 <p align="center">
-  <b>Building intelligent solutions at the intersection of AI, security and technology</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Building+Intelligent+Solutions;AI+%2B+Cybersecurity+%2B+Innovation" alt="Project Typing Animation"/>
 </p>
 
 <table>
@@ -206,7 +191,7 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
 </p>
 
 <p align="center">
-  An FPGA-based hardware security project focused on detecting potential hardware Trojans using power consumption analysis and machine learning.
+  FPGA-based hardware security project focused on detecting potential hardware Trojans using power consumption analysis and machine learning.
 </p>
 
 **✨ Key Features**
@@ -244,7 +229,7 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
 </p>
 
 <p align="center">
-  An AI-powered medical analysis project designed to support gastric cancer detection by combining medical image analysis with clinical and genomic information.
+  AI-powered medical analysis project designed to support gastric cancer detection by combining medical image analysis with clinical and genomic information.
 </p>
 
 **✨ Key Features**
@@ -331,7 +316,7 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,gcp"/>
 </p>
 
-### DevOps & Tools
+### DevOps & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman,vscode"/>
@@ -422,19 +407,15 @@ I enjoy exploring how systems work, understanding security vulnerabilities, and 
 ## 🔐 FINAL TRANSMISSION
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-166534?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SECURITY-LEARNING-14532D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-166534?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=650&lines=%5B+SYSTEM+STATUS%3A+ONLINE+%5D;%5B+SECURITY+MODE%3A+LEARNING+%5D;%5B+MISSION%3A+KEEP+BUILDING+%5D;THINK+SECURE.+BUILD+SMART." alt="Final Transmission"/>
 </p>
-
-<h2 align="center">🛡️ THINK SECURE. BUILD SMART. STAY CURIOUS.</h2>
 
 <h3 align="center">
   "The best defense begins with understanding how things work."
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532D,100:166534&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,50:14532D,100:0D1117&height=140&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
